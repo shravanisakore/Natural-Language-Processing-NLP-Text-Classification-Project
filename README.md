@@ -22,7 +22,7 @@ Ensure you have **Python 3.x** installed along with the necessary dependencies.
 
 ### Setup Instructions
 1. **Clone the repository**
-
+gh repo clone shravanisakore/Natural-Language-Processing-NLP-Text-Classification-Project
    ```
 2. **Create and activate a virtual environment (Optional but recommended)**
    ```sh
